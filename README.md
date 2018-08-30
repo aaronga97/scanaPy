@@ -21,9 +21,9 @@ and listing each device with specific information about it.
 
 #### Tools & Frameworks used
 
-[NMAP:](https://github.com/nmap/nmap) Port scanning tool.   
-[Flask:](http://flask.pocoo.org/) Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions    
-[React:](https://github.com/facebook/react) Declarative, efficient, and flexible JavaScript library for building user interfaces. 
+- [**NMAP:**](https://github.com/nmap/nmap) Port scanning tool.   
+- [**Flask:**](http://flask.pocoo.org/) Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions    
+- [**React:**](https://github.com/facebook/react) Declarative, efficient, and flexible JavaScript library for building user interfaces. 
 
 ##### ENJOY!
 
