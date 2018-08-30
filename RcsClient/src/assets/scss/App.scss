@@ -1,0 +1,84 @@
+$bg-color: yellow;
+$border-color: red;
+
+.app {
+  font-family: helvetica, arial, sans-serif;
+  padding: 2em;
+  border: 5px solid $border-color;
+  font-weight: 300;
+  font-size: 14px;
+
+  p {
+    background-color: $bg-color;
+  }
+}
+
+body {
+  font-size: 15px;
+  padding-bottom: 100px;
+}
+
+label {
+  line-height: 0.1;
+}
+
+small {
+  line-height: 1;
+}
+
+.white {
+  color: white;
+}
+
+.headPC {
+  margin-top: 10px;
+}
+
+.computerImage {
+  width: 150px;
+  transition: 0.3s;
+}
+
+.computerImage:hover {
+  transform: scale(1.12);
+  cursor: pointer;
+}
+
+.form-group {
+  margin-bottom: 0.5rem;
+}
+
+.ReactTable {
+  font-size: 16px;
+  line-height: 0.8;
+}
+
+.rt-resizable-header-content {
+  font-weight: bold;
+}
+
+.-pagination {
+  height: 47px;
+}
+
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -1px;
+}
+
+.inputStyle {
+  height: 30px;
+}
+
+.-headerGroups {
+  height: 5px;
+}
+
+#homeIcon {
+  font-size: 25px;
+}
